@@ -1,0 +1,83 @@
+#estados{
+    height: 400px;
+    background-color:  chartreuse;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#motos{
+    height: 400px;
+    background-color:  lightgray;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+#animais{
+    height: 300px;
+    background-color:  lightgreen;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+#noticias{
+    height: 300px;
+    background-color:  darkkhaki;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+.irAnimais{
+    position:fixed;
+    bottom: 620px;
+    right: 5px;
+    text-decoration: none;
+    color:white;
+    background-color: aquamarine;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size:25px;
+}
+
+.irTopo{
+    position:fixed;
+    bottom: 580px;
+    right: 5px;
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size:25px;
+}
+
+.irNoticias{
+    position:fixed;
+    bottom: 540px;
+    right: 5px;
+    text-decoration: none;
+    color:red;
+    background-color: gray;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size:25px;
+}
+
+.irMotos{
+    position:fixed;
+    bottom: 500px;
+    right: 5px;
+    text-decoration: none;
+    color:rgb(255, 0, 255);
+    background-color: yellow;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size:25px;
+}
